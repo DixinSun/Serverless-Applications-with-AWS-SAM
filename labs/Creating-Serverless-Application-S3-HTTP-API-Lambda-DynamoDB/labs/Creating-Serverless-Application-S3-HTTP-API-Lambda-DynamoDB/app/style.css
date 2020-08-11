@@ -1,0 +1,21 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-top: 20px;
+  margin-bottom: 60px;"C:/Users/DixinSun/Desktop/content-aws-sam-master/labs/Creating-Serverless-Application-S3-HTTP-API-Lambda-DynamoDB/app/index.html"
+}
+
+img {
+  margin-right: 15px;
+}
+
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+
+[v-cloak] { display: none; }
